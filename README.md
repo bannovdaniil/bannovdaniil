@@ -1,14 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hello%2C+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hello%2C+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%F0%9F%91%8B)]
 
-
-⭐ Stars:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bannovdaniil&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+### 👉 [Мое резюме на HH.ru](https://hh.ru/resume/bcf6853aff0968edc50039ed1f3338735a3263)
 
 ⚡ My Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bannovdaniil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bannovdaniil&layout=compact)]
+
+⭐ Stars:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bannovdaniil&show_icons=true)]
 
 
 🔭 LeetCode:
