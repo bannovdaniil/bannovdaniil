@@ -1,4 +1,13 @@
-### Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+Привет!+👋)](https://git.io/typing-svg)
+
+⚡ My Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+🔭 LeetCode:
+[![BannovDaniil's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bannovdaniil)](https://github.com/bannovdaniil/leetcode-stats)
+
+Stars
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bannovdaniil/bannovdaniil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
