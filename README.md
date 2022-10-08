@@ -1,7 +1,5 @@
 ## Добро пожаловать в мой репо!
 
-----
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bannovdaniil&show_icons=true)
 
 ⚡ My top Lang:
