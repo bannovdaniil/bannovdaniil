@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hello%2C+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%F0%9F%91%8B)]
+##Баннов Даниил, Java разработчик.
 
-### 👉 [Мое резюме на HH.ru](https://hh.ru/resume/bcf6853aff0968edc50039ed1f3338735a3263)
+👉 [Мое резюме на HH.ru](https://hh.ru/resume/bcf6853aff0968edc50039ed1f3338735a3263)
 
 ⚡ My Top Langs
 
@@ -14,6 +14,7 @@
 🔭 LeetCode:
 
 [![BannovDaniil's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bannovdaniil)](https://github.com/bannovdaniil/leetcode-stats)
+
 
 <!--
 **bannovdaniil/bannovdaniil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
