@@ -16,6 +16,10 @@
 
 ![BannovDaniil's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bannovdaniil)
 
+---
+Где меня найти:
+
+<a href="https://t.me/BannovDaniil">https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white</a>
 
 <!--
 **bannovdaniil/bannovdaniil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
