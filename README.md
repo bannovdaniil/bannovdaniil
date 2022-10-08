@@ -1,4 +1,4 @@
-## Добро пожаловать в мой репо!
+## Добро пожаловать на мою страницу!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bannovdaniil&show_icons=true)
 
