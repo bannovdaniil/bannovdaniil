@@ -1,15 +1,15 @@
 ## Баннов Даниил, Java разработчик.
 
+
 👉 Мое резюме на HH.ru: [https://hh.ru/resume/bcf6853aff0968edc50039ed1f3338735a3263](https://hh.ru/resume/bcf6853aff0968edc50039ed1f3338735a3263)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bannovdaniil&layout=compact)
-
-⭐ Stars:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bannovdaniil&show_icons=true)
 
 
 🔭 LeetCode:
-![BannovDaniil's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bannovdaniil)](https://github.com/bannovdaniil/leetcode-stats)
+
+![BannovDaniil's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bannovdaniil)
 
 
 <!--
