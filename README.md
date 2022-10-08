@@ -3,9 +3,7 @@
 
 ⭐ Stars:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bannovdaniil&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bannovdaniil&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ⚡ My Top Langs
@@ -16,11 +14,6 @@
 🔭 LeetCode:
 
 [![BannovDaniil's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bannovdaniil)](https://github.com/bannovdaniil/leetcode-stats)
-
-
-⭐ Stars:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bannovdaniil)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bannovdaniil/bannovdaniil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
