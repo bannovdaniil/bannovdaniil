@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bannovdaniil&layout=compact)
 
 
-🔭 LeetCode:
+🔭 [LeetCode](https://leetcode.com/bannovdaniil/):
 
 ![BannovDaniil's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bannovdaniil)
 
