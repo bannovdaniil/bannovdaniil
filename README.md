@@ -1,4 +1,5 @@
 ## Добро пожаловать на мою страницу!
+![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bannovdaniil&theme=github)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bannovdaniil&show_icons=true)
 
