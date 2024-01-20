@@ -16,6 +16,8 @@
 Где меня найти:
 
 <a href="https://t.me/BannovDaniil"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/bannovdaniil"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
 
 ## 👉 [Мое резюме на HH.ru](https://hh.ru/resume/bcf6853aff0968edc50039ed1f3338735a3263) 👈
 [https://hh.ru/resume/bcf6853aff0968edc50039ed1f3338735a3263](https://hh.ru/resume/bcf6853aff0968edc50039ed1f3338735a3263)
